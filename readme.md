@@ -6,3 +6,6 @@
 6. git add .
 7. git commit -m "changes name"
 8. git push --set-upstream origin main
+9. git branch > to look all the branches in git
+10. git checkout -b branchName > is used to make another branch and switch to that branch
+11. 

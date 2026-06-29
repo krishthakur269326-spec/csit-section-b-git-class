@@ -8,4 +8,4 @@
 8. git push --set-upstream origin main
 9. git branch > to look all the branches in git
 10. git checkout -b branchName > is used to make another branch and switch to that branch
-11. 
+11. git checkout branchName is used to switch branches
